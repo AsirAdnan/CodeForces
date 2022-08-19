@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[27]:
-
-
 a,b=[int(i) for i in input().split()]
 c=0
 while a<=b:
@@ -11,4 +5,3 @@ while a<=b:
     b*=2
     c+=1
 print(c)
-
