@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[15]:
-
-
 l=[input().lower(),input().lower()]
 x,y=l
 l.sort()
@@ -13,10 +7,3 @@ elif l[0]==x:
     print(-1)
 else:
     print(1)
-
-
-# In[ ]:
-
-
-
-
